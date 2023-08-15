@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my website! 👋
 
 <!--
 **eripicado/eripicado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
